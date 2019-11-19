@@ -58,15 +58,22 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"APCSA Unit 4",
+        "degree":"CSMB",
+        "graduated":"2019-2020",
+        "description":"Abecedarian",
+        "url": "https://repl.it/@Christopher_Pat/Abecedarian",
+        "description2":"Print Backwards",
+        "url2": "https://repl.it/@Christopher_Pat/print-backwards",
+        "description3":"For Loop Practice",
+        "url3": "https://repl.it/@Christopher_Pat/for-loopies",
+        "description4":"Health Check",
+        "url4": "https://repl.it/@Christopher_Pat/HealthCheck"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"APCSA Unit 5",
+        "degree":"CSMB",
+        "graduated":"2019-2020",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
